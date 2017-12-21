@@ -9,9 +9,22 @@
 }
 .box_1 {
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+._三级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
 .box_2 {
 }
 .box_3 {
+}
+._图片 {
 }
 .image {
 }
@@ -71,6 +84,10 @@
 }
 .table_cell {
 }
+.menu_item {
+}
+.ellipse {
+}
 .connector {
 }
 .marker {
@@ -80,4 +97,6 @@
 }
 .image1 {
   color:#000000;
+}
+.icon {
 }
